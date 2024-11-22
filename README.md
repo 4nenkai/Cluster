@@ -19,8 +19,8 @@ This project is made as for self-learning purposes, which has the base of DPP & 
 
 ## Usage
 - Use `/blacklist <userID> <reason>` to add a user to the blacklist.
-- Use `!unblacklist <userID>` to remove a user from the blacklist.
-- Use `!list` to view all blacklisted users.
+- Use `/unblacklist <userID>` to remove a user from the blacklist.
+- Use `/list` to view all blacklisted users.
 
 ## License
 This project is licensed under the [GNU General Public License v3.0](./LICENSE).  
